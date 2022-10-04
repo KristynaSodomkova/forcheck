@@ -1,0 +1,17 @@
+.male {
+    background-color: #3E6EBB;
+}
+
+.female {
+    background-color: #5B1F5C;
+
+}
+
+.nonbinary {
+    background-color:#D071C6;
+}
+
+.male,
+.female {
+    color: white;
+}
